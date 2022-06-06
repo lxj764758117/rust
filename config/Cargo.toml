@@ -17,7 +17,7 @@ parity-multiaddr = { version = "0.5.0", default-features = false }
 rand = "0.6.5"
 serde = { version = "1.0.99", default-features = false }
 toml = { version = "0.5.3", default-features = false }
-prost = "0.5.0"
+prost = "0.6.1"
 
 libra-crypto = { path = "../crypto/crypto", version = "0.1.0" }
 failure = { path = "../common/failure-ext", version = "0.1.0", package = "libra-failure-ext" }
