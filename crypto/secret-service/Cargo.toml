@@ -13,7 +13,7 @@ edition = "2018"
 bytes = "0.4.12"
 grpcio = { version = "=0.5.0-alpha.4", default-features = false, features = ["prost-codec"] }
 futures = "0.1.28"
-prost = "0.5.0"
+prost = "0.6.1"
 rand = "0.6.5"
 rand_chacha = "0.1.1"
 serde = { version = "1.0.96", features = ["derive"] }
